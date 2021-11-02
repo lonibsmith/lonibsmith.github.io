@@ -1,0 +1,17 @@
+.header {
+    padding: 60px;
+    text-alight: center;
+    background: "img src= "./mountains.jpg"";
+}
+body {
+    background-color: darkolivegreen;
+    text-align: center;
+    text-size-adjust: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    margin-top: 50;
+    margin-bottom: 50;
+    margin-left: 50;
+    margin-right: 50;
+}
