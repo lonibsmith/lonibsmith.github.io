@@ -1,0 +1,42 @@
+.header {
+    padding: 60px;
+    text-alight: center;
+    background-color: black;
+    color: aquamarine;
+    text-size-adjust: p=30;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+li {
+    display: inline;
+    float: left;
+}
+li a {
+    display: block;
+    padding: 14px 16pxpx;
+    color:black;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a: hover {
+    bacground-color: #111;
+}
+
+body {
+    background-color: aquamarine;
+    text-align: center;
+    text-size-adjust: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+p {
+    margin-top: 50;
+    margin-bottom: 50;
+    margin-left: 50;
+    margin-right: 50;
+}
