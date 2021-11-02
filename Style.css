@@ -1,0 +1,20 @@
+.header {
+    padding: 60px;
+    text-alight: center;
+    background-color: black;
+    color: aquamarine;
+    text-size-adjust: p=30;
+}
+body {
+    background-color: aquamarine;
+    text-align: center;
+    text-size-adjust: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+p {
+    margin-top: 50;
+    margin-bottom: 50;
+    margin-left: 50;
+    margin-right: 50;
+}
